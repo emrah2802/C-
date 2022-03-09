@@ -1,2 +1,4 @@
-# C-
-MOJ FOLDER {C++}
+#include<iostream>
+using namespace std;
+ 
+int main()
